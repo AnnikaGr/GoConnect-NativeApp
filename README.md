@@ -13,7 +13,7 @@ This is the native version built using React and expo.
 npm install
 ```
 
-### Compiles
+### Compilation
 ```
 expo start --android
 ```
